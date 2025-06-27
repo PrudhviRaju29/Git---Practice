@@ -1,2 +1,2 @@
-My DevOps Journey Started
+Welcome to Prudhvi's DevOps Training
 This line is added in the feature branch.
